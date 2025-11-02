@@ -29,15 +29,12 @@
 
 # Steam Achivements In Unreal Engine 5 ( Tutorial )
 
-<p align="center">
-  <img src="./media/2-Automatic-Discord-tasks.png" alt="Automatic-Discord-tasks" width="400">
-</p>
-
 ## Этот простой способ подключения Steam Achivements, Steam Leaderboard и Steam Stat без стороних плагинов.
 ## Он предназначен для упрощения выдачи наград, связанных с внутриигровыми заданиями.
 
 * * * * * * * * * * * * * * * * * * 
 * * * * * * * * * * * * * * * * * * 
+
 
 
 > **⚠️ Внимание отказ от ответственности:** Автор не несёт ответственности за возможные последствия.
