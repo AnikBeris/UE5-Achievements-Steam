@@ -7,6 +7,13 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/steamworks-logo-dark.png">
+    <img alt="Project Logo" src="./media/steamworks-logo-light.png" width="512" height="auto">
+  </picture>
+</p>
+
 ---
 
 <div align="center">
