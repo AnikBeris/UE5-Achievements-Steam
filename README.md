@@ -1,4 +1,9 @@
-**------->** [English](/README_en_EN.md) | [Русский](/README.md) **<-------**
+<p align="center">
+  <strong>-------></strong> 
+  <a href="/README_en_EN.md">English</a> | 
+  <a href="/README.md">Русский</a> 
+  <strong><-------</strong>
+</p>
 
 <p align="center">
   <picture>
