@@ -75,23 +75,6 @@
 
 
 
-## 📦 Что будет реализовано
-- Полная совместимость с `unreal engine 5` 
-- Создание achievements steam
-- Создание Leaderboard steam
-- Создание Stat steam
-- Простое использование — вставь скрипт в консоль разработчика  
-
-
-
-## 🔗 Полезные ссылки
-- [Статистика и достижения](https://partner.steamgames.com/doc/features/achievements#1)
-- [AVGRATE-статистика](https://partner.steamgames.com/doc/features/achievements#AVGRATE)
-- [Сброс статистик](https://partner.steamgames.com/doc/features/achievements#9)
-- [Общая статистика](https://partner.steamgames.com/doc/features/achievements#global_stats)
-- [Достижения](https://partner.steamgames.com/doc/features/achievements/ach_guide)
-- [Статистики](https://partner.steamgames.com/doc/features/achievements/stats_guide)
-
 ## 📚 Содержание
 
 1. [Введение](#-введение)
@@ -103,6 +86,16 @@
 7. [Сброс статистики и достижений](#-6-сброс-статистики-и-достижений)
 8. [Кодовая часть в Unreal Engine 5 (Blueprints)](#-7-кодовая-часть-в-unreal-engine-5-blueprints)
 9. [Заключение](#-8-заключение)
+
+
+
+## 🔗 Полезные ссылки
+- [Статистика и достижения](https://partner.steamgames.com/doc/features/achievements#1)
+- [AVGRATE-статистика](https://partner.steamgames.com/doc/features/achievements#AVGRATE)
+- [Сброс статистик](https://partner.steamgames.com/doc/features/achievements#9)
+- [Общая статистика](https://partner.steamgames.com/doc/features/achievements#global_stats)
+- [Достижения](https://partner.steamgames.com/doc/features/achievements/ach_guide)
+- [Статистики](https://partner.steamgames.com/doc/features/achievements/stats_guide)
 
 * * * * * * * * * * * * * * * * * * 
 * * * * * * * * * * * * * * * * * * 
