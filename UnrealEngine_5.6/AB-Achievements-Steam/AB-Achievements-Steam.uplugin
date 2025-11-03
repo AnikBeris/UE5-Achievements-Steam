@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AB-Achievements-Steam",
+	"Description": "Плагин с примерами Steam Achievements, Stat, Leaderboard",
+	"Category": "AnikBeris",
+	"CreatedBy": "AnikBeris",
+	"CreatedByURL": "https://github.com/AnikBeris/UE5-Achievements-Steam",
+	"DocsURL": "https://github.com/AnikBeris/UE5-Achievements-Steam",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/AnikBeris",
+	"EngineVersion": "5.6.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		}
+	]
+}
