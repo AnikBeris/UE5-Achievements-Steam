@@ -20,9 +20,9 @@
 </p>
 
 
-<p align="center">
-  <img src="./media/image0.gif" alt="Demo" style="width: 100%; height: auto;">
-</p>
+<div align="center">
+  <img src="./media/image0.gif" alt="SPACER" width="90%">
+</div>
 
 <div align="center">
 
