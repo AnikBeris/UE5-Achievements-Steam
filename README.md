@@ -24,7 +24,6 @@
   <img src="./media/image0.gif" alt="Demo" style="width: 100%; height: auto;">
 </p>
 
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-blue?style=flat&logo=github)](https://github.com/AnikBeris)
