@@ -21,10 +21,6 @@
 
 
 <div align="center">
-  <img src="./media/image0.gif" alt="SPACER" width="90%">
-</div>
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-blue?style=flat&logo=github)](https://github.com/AnikBeris)
 [![License](https://img.shields.io/badge/License-purple?style=flat&logo=github)](/LICENSE.md)
@@ -32,6 +28,9 @@
 
 </div>
 
+<div align="center">
+  <img src="./media/image0.gif" alt="SPACER" width="90%">
+</div>
 
 
 
